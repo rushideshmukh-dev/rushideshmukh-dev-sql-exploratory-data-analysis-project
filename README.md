@@ -1,4 +1,3 @@
-# rushideshmukh-dev-sql-exploratory-data-analysis-project
 
 ## Customer & Product Analytics Project
 

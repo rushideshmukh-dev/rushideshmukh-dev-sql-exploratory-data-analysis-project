@@ -43,49 +43,54 @@ The goal of this project was to simulate a real business analytics environment a
 
 🧾 Analytical Steps:
 
-✔ Data Understanding & Preparation
+1️⃣ Data Acquisition & Understanding
 
-- Reviewed dataset structure
+- Gathered raw datasets and reviewed data sources
 
-- Identified key fields for analysis
+- Assessed data structure, fields, and business context
 
-- Cleaned and organized data
+- Identified key entities, metrics, and relationships
 
-✔ Trend & Time-Based Analysis
+2️⃣ Data Cleaning & Preparation
 
-- Tracked performance changes over time
+- Standardized formats & validated data integrity
 
-- Evaluated patterns and seasonality
+- Removed inconsistencies, duplicates, and irrelevant fields
 
-✔ Cumulative Analysis
+- Created structured tables for analysis
 
-- Calculated running totals
+3️⃣ Exploratory Data Analysis (EDA)
 
-- Analyzed growth over time
+- Performed trend, distribution, and correlation checks
 
-✔ Performance Analysis
+- Identified patterns, anomalies, and initial insights
 
-- Measured key metrics across dimensions
+- Defined hypotheses and analytical direction
 
-- Compared customer and product performance
+4️⃣ Feature & Metric Development
 
-✔ Part-To-Whole Analysis
+- Engineered meaningful fields for deeper insights
 
-- Measured category-level contribution
+- Built KPIs and analytical dimensions
 
-- Identified top-contributing groups
+- Applied window functions for running totals, rankings, and segmentation
 
-✔ Segmentation
+5️⃣ Business Analysis & Modeling
 
-- Grouped customers/products into segments
+- Conducted time-series and cumulative growth analysis
 
-- Evaluated segment performance
+- Evaluated performance across customer & product segments
 
-✔ Insights & Reporting
+- Performed contribution (part-to-whole) and cohort-style analyses
 
-- Summarized findings
+6️⃣ Segmentation & Insight Extraction
 
-- Highlighted key business takeaways
+- Grouped entities into relevant business segments
+
+- Compared segment behavior & contribution
+
+- Identified high-value customer and product groups
+
 
 📊 Skills Demonstrated :
 
@@ -100,3 +105,9 @@ The goal of this project was to simulate a real business analytics environment a
 - Working with structured data in a business context
 
 - Organized project documentation
+
+👨‍💻 About Me
+
+Hi, I'm Rushikesh — a data-driven professional with hands-on experience in Data Analytics, Business Analysis, and Product Management.
+
+I specialize in transforming raw data into meaningful insights that support strategic decision-making. Currently, I’m expanding my expertise in Data Warehousing, SQL, and Tableau, building scalable analytical workflows and developing dashboards that turn complex datasets into clear, actionable stories.

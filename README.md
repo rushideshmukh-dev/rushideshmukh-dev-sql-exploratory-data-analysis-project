@@ -7,7 +7,7 @@ I designed and executed a structured analysis workflow to explore customer behav
 
 The goal of this project was to simulate a real business analytics environment and build actionable insights that support decision-making.
 
-🎯 Project Objectives
+🎯 Project Objectives :
 
 - Analyze customer and product-level performance
 
@@ -20,7 +20,7 @@ The goal of this project was to simulate a real business analytics environment a
 - Deliver insights in a clear and structured way
 
 
-🧠Key Business Questions Answered
+🧠Key Business Questions Answered :
 
 - How do key performance metrics change over time?
 
@@ -32,15 +32,17 @@ The goal of this project was to simulate a real business analytics environment a
 
 - How does each category contribute to the overall business?
 
-  📂 Project Structure
-📦 data-analytics-project/
-│
-├── datasets/      # Raw & processed data
-├── docs/          # Notes & supporting materials
-├── scripts/       # SQL analysis scripts
-└── README.md      # Project summary
+📂 Project Structure :
+  
+  📦 data-analytics-project/
+  │
+  ├── datasets/      # Raw & processed data
+  ├── docs/          # Notes & supporting materials
+  ├── scripts/       # SQL analysis scripts
+  └── README.md      # Project summary
 
-🧾 Analytical Steps
+🧾 Analytical Steps:
+
 ✔ Data Understanding & Preparation
 
 - Reviewed dataset structure
@@ -85,7 +87,7 @@ The goal of this project was to simulate a real business analytics environment a
 
 - Highlighted key business takeaways
 
-  📊 Skills Demonstrated
+📊 Skills Demonstrated :
 
 - SQL data exploration & analysis
 

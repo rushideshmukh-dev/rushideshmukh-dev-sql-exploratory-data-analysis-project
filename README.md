@@ -35,11 +35,11 @@ The goal of this project was to simulate a real business analytics environment a
 📂 Project Structure :
   
   📦 data-analytics-project/
-  │
-  ├── datasets/      # Raw & processed data
-  ├── docs/          # Notes & supporting materials
-  ├── scripts/       # SQL analysis scripts
-  └── README.md      # Project summary
+     │
+   - ├── datasets/      # Raw & processed data
+   - ├── docs/          # Notes & supporting materials
+   - ├── scripts/       # SQL analysis scripts
+   - └── README.md      # Project summary
 
 🧾 Analytical Steps:
 
